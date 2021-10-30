@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThisIsALion
+- 👀 I’m interested in OPSEC
+- 🌱 I’m currently learning Ruby
+- 💞️ I’m looking to collaborate on Telegram
